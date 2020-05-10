@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Swasti, Python Enthusiast, Launches Site"
+title: "Swasti, Python Enthusiast"
 date: 2020-05-07
 ---
 
