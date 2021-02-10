@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Swasti, Python Enthusiast"
+title: "Swasti, IT Business Analyst"
 date: 2020-05-07
 ---
 
